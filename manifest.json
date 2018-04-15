@@ -2,9 +2,14 @@
     "manifest_version": 2,
     "name": "Context menu: Copy text with link",
     "description": "Add a context menu option to links to copy the selection to the clipboard, as plain text and as a link in rich HTML.",
-    "version": "1.0",
-    "homepage_url": "https://stadt-münchen.eu",
-
+    "version": "0.0.1",
+    "homepage_url": "https://github.com/0xfd000000/clipr",
+    "icons": {
+        "128": "icon/icon128.png",
+        "64": "icon/icon64.png",
+        "48": "icon/icon48.png",
+        "32": "icon/icon32.png"
+    },
     "background": {
         "scripts": [
             "browser-polyfill.min.js",

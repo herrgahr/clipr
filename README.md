@@ -21,3 +21,5 @@ Tested with:
 Based on the example context-menu-copy-link-with-types/ from the repository:
 https://github.com/mdn/webextensions-examples
 
+The icon is taken from: https://feathericons.com/
+
