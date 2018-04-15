@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Context menu: Copy text with link",
+    "name": "clipr: Add page URL to copied text",
     "description": "Add a context menu option to links to copy the selection to the clipboard, as plain text and as a link in rich HTML.",
     "version": "0.0.1",
     "homepage_url": "https://github.com/0xfd000000/clipr",

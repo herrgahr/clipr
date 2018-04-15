@@ -7,7 +7,7 @@ It generates two types of selection:
 - text/plain
 - text/html
 
-For the plaintext, the URL is simply prepended as-is with a newline. For the html, the url is prepended as an anchor-tag with both the href and the text content set to thr URL. The actual text of your selection is put into a <pre> that in order to preserve line-breaks.
+For the plaintext, the URL is simply prepended as-is with a newline. For the html, the url is prepended as an anchor-tag with both the href and the text content set to thr URL. The actual text of your selection is put into a &lt;pre&gt; in order to preserve line-breaks.
 
 At the moment, the action can only be triggered via a context-menu entry. I might investigate adding a key-binding later on.
 
