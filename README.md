@@ -16,6 +16,10 @@ Tested with:
 - Firefox 59.0.2 (64bit) on Linux
 - Chromium 65.0.3325.181 (Official Build) Arch Linux (64-bit)
 
+Chrome webstore URL: https://chrome.google.com/webstore/detail/clipr-add-page-url-to-cop/mlbeoeeafofajmlebodidkdkjlbodmgh
+
+Firefox extensions URL: https://addons.mozilla.org/en-US/firefox/addon/clipr/
+
 ## Acknowledgements
 
 Based on the example context-menu-copy-link-with-types/ from the repository:
